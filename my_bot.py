@@ -1,7 +1,7 @@
 """
 This is the ONLY file you should modify.
 
-(1) Name this file with your teamname:
+(1) Name this file with your teamname: Alz
     Do not include space in the filename.
 
 (2) Send this file at the end of the tryout for submission.
@@ -11,7 +11,7 @@ This is the ONLY file you should modify.
 
 class bot:
     def __init__(self):
-        self.team_name = "Foo"
+        self.team_name = "Alz"
 
     def move(self):
         "Logic for your bot"
